@@ -13,6 +13,10 @@ body {
   color: white; /* Change to any bright color that contrasts with the background */
 }
 
+h1, h2, h3, p, li {
+  text-shadow: 2px 2px 4px black;
+}
+
 
 body {
   font-family: 'Arial', sans-serif;
