@@ -19,6 +19,12 @@ body {
   color: #ffffff; /* Change text color so it's readable */
 }
 
+main {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
 
 header {
   background: #000;
