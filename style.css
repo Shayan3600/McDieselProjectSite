@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+main, section, article, div {
+  background: transparent !important;
+}
+
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
@@ -14,11 +19,6 @@ body {
   color: #ffffff; /* Change text color so it's readable */
 }
 
-
-@keyframes background-move {
-  0% { background-position: 0 0; }
-  100% { background-position: 100px 100px; }
-}
 
 header {
   background: #000;
