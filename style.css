@@ -9,6 +9,10 @@ main, section, article, div {
   background: transparent !important;
 }
 
+body {
+  color: white; /* Change to any bright color that contrasts with the background */
+}
+
 
 body {
   font-family: 'Arial', sans-serif;
