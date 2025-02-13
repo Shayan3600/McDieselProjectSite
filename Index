@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>March 1848: German Revolutions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <marquee behavior="scroll" direction="left">Welcome to the 1848 German Revolutions!</marquee>
+    <h1>March 1848: German Revolutions</h1>
+    <nav>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#figures">Key Figures</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <!-- Overview Section -->
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>
+        On March 9, 1848, citizens of Hanau joined a revolutionary surge across the German Confederation. They challenged the rule of Prince-Elector Friedrich Wilhelm of Hesse, demanding a unified and modern Germany.
+      </p>
+      <p>
+        Inspired by uprisings in Paris and Sicily, demonstrators in cities like Berlin, Vienna, and Dresden built barricades, rallied against censorship, and fought for fundamental freedoms. Despite high hopes, the movement faded by 1849—yet its legacy lives on in symbols like the black-red-gold flag.
+      </p>
+      <figure>
+        <img src="images/barricade.jpg" alt="Barricade in central Berlin">
+        <figcaption>Barricade in central Berlin during the uprising.</figcaption>
+      </figure>
+      <figure>
+        <img src="images/stpauls.jpg" alt="St. Paul’s Church in Frankfurt">
+        <figcaption>St. Paul’s Church in Frankfurt, restored after WWII.</figcaption>
+      </figure>
+    </section>
+
+    <!-- Revolutionary Figures Section -->
+    <section id="figures">
+      <h2>Key Revolutionary Figures</h2>
+      <p>
+        Several key figures drove the revolutionary spirit:
+      </p>
+      <ul>
+        <li><strong>Friedrich Hecker</strong>: Lawyer and politician who championed a German republic.</li>
+        <li><strong>Gustav Struve</strong>: Led multiple uprisings, embodying relentless revolutionary zeal.</li>
+        <li><strong>Franz Sigel</strong>: Military officer who organized defenses during critical protests.</li>
+        <li><strong>Hermann von Natzmer</strong>: Defied orders to fire on demonstrators, becoming a revolutionary hero.</li>
+        <li><strong>Karl Ludwig Johann D’Ester</strong>: Physician and socialist active in government reform efforts.</li>
+        <li><strong>August Willich</strong>: Former officer who mobilized worker resistance.</li>
+        <li><strong>Friedrich Engels</strong>: Co-author of “The Communist Manifesto,” who fought on the barricades.</li>
+        <li><strong>Robert Blum</strong>: Frankfurt National Assembly politician whose sacrifice underscored the revolution’s cost.</li>
+      </ul>
+    </section>
+
+    <!-- Revolutionary Roadmap Section -->
+    <section id="roadmap">
+      <h2>Revolutionary Roadmap</h2>
+      <p>
+        Had the revolution succeeded, the plan would have included:
+      </p>
+      <ol>
+        <li><strong>Establish an Interim Government:</strong> Form a provisional assembly to maintain order.</li>
+        <li><strong>Draft a New Constitution:</strong> Convene a convention with public input for a democratic charter.</li>
+        <li><strong>Reorganize State Structures:</strong> Define national borders and streamline administration.</li>
+        <li><strong>Guarantee Rights and Liberties:</strong> Legally secure freedoms such as speech, press, and assembly.</li>
+        <li><strong>Implement Economic and Social Reforms:</strong> Address inequalities and improve living conditions.</li>
+        <li><strong>Foster National Unity:</strong> Promote cultural initiatives to build a shared identity.</li>
+        <li><strong>Secure International Recognition:</strong> Engage diplomatically and develop a defense strategy.</li>
+      </ol>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 School Project. All rights reserved.</p>
+  </footer>
+</body>
+</html>
